@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 依赖
+node_modules/
+.env
+.env.local
+
+# 构建产物
+dist/
+build/
+*.log
+
+# 临时文件
+*.tmp
+.cache/
