@@ -1,31 +1,18 @@
 # Solana Journey - 学习记录
 
-这是我的 Solana 区块链开发学习之旅记录仓库。
+From 0 to 1
 
-## 📚 学习目录
+## This repository documents my journey of learning Solana from scratch.
 
-<!-- 在这里添加你的学习笔记和项目 -->
+I am currently enrolled in a Solana developer bootcamp and use this repository to publicly record my learning process, including:
 
-## 📖 学习资源
+Learning notes written in my own words
+Experiments and small demos
+Mistakes, pitfalls, and lessons learned
+Weekly progress and reflections
+This is a learning-in-public repository. The code and notes may be imperfect, but they reflect real progress.
 
-<!-- 记录有用的学习资源链接 -->
 
-## 🎯 学习目标
-
-<!-- 列出你的学习目标 -->
-
-## 📝 学习日志
-
-### [日期] - 标题
-- 学习内容：
-- 遇到的问题：
-- 解决方案：
-
----
-
-## 🤔 如何贡献
-
-这是个人学习记录仓库，欢迎提出建议和意见！
 
 ## 📄 许可证
 
