@@ -11,7 +11,7 @@ Solana 网络上的所有数据都存储在账户中。您可以将 Solana 网�
 
 账户地址是一个 32 字节的唯一 ID，用于在 Solana 区块链上定位账户。账户地址通常以 base58 编码字符串的形式显示。大多数账户使用 Ed25519 公钥 作为其地址，但这并不是强制性的，因为 Solana 还支持程序派生地址。
 
-image.png
+![账户地址](../image/accounts_address.png)
 
 账户结构
 
@@ -36,7 +36,7 @@ rent_epoch: 已弃用的租金 epoch 字段
 
 在下图中，可以看到一个加载器程序被用来部署一个程序账户。程序账户的 data 包含可执行的程序代码。
 
-image.png
+![程序账户](../image/program_accounts.png)
 
 程序数据账户
 
