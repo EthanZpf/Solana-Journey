@@ -4,4 +4,4 @@
 Solana 网络上的所有数据都存储在账户中。您可以将 Solana 网络视为一个包含单一账户表的公共数据库。账户与其地址之间的关系类似于键值对，其中键是地址，值是账户。
 
 每个账户都有相同的基本结构，并且可以通过其地址找到。
-![这是图片](Solana-Journey/img/accounts.png "accounts")
+![这是图片](./img/accounts.png "accounts")
